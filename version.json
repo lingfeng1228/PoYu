@@ -1,17 +1,17 @@
 {
   "latestVersion": "0.1.0",
-  "changelog": "首版内测：\n- 账号注册/登录（用户名+密码），登录状态可保持\n- 修复 Windows 标题栏乱码\n- 修复安卓端无法连接服务器（明文 HTTP 权限）\n- 登录/注册支持提示「账号不存在」「密码错误」\n- 控制台显示用户 IPv4/IPv6 与最近活跃\n- 会话支持自定义头像；设置页「检查更新」",
+  "changelog": "内测第 2 版：\n- 回复方式与 API 配置本地持久化（重开保持你的选择）\n- 断网时按本地授权计时可继续用自有 API\n- 移动端创建的会话自动同步到服务端\n- 新增「记忆」页：查看/删除服务端记忆\n- 修复 Windows 发布包为旧版（app.so 未更新）\n- 登录提示区分「账号不存在」「密码错误」\n- 安卓联网权限修复；控制台显示用户 IPv4/IPv6",
   "force": false,
   "minSupportedVersion": "0.1.0",
   "platforms": {
     "android": {
       "url": "https://github.com/lingfeng1228/PoYu/releases/download/v0.1.0/Poyu-0.1.0-release.apk",
-      "sha256": "5C7C4DD975FDECEF1B7754C529B3BCB17192D870424957FD6BA65F96032193E5",
+      "sha256": "69AD91CF1585D47F0A2B8B7193F2F0F504EEA5709D21656CACCC78D9C7A02268",
       "backupUrl": "https://gitee.com/lingfeng1228/PoYu/releases/download/v0.1.0/Poyu-0.1.0-release.apk"
     },
     "windows": {
       "url": "https://github.com/lingfeng1228/PoYu/releases/download/v0.1.0/Poyu-0.1.0-windows-x64.zip",
-      "sha256": "CEAB3C5E0D336131D0DB7C002F248CC8D2A591FAD68AA86DDD520F6D71E55C01",
+      "sha256": "92577BE40C7EE88E5FC64479CE895B04BE7612C0CC254D2895C9D60C20A8299F",
       "backupUrl": "https://gitee.com/lingfeng1228/PoYu/releases/download/v0.1.0/Poyu-0.1.0-windows-x64.zip"
     }
   }
