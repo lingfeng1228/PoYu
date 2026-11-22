@@ -1,0 +1,18 @@
+{
+  "latestVersion": "0.1.0",
+  "changelog": "首版内测：\n- 新增账号注册/登录（用户名+密码）\n- 修复 Windows 标题栏乱码\n- 会话支持自定义头像\n- 回复方式与模型：白名单用户可用自有 API\n- 设置页「检查更新」",
+  "force": false,
+  "minSupportedVersion": "0.1.0",
+  "platforms": {
+    "android": {
+      "url": "https://github.com/lingfeng1228/PoYu/releases/download/v0.1.0/Poyu-0.1.0-release.apk",
+      "sha256": "3CE0F36BA88A5E1F9EFBD32CD4098BD0155E0439DA4130650E9C87C9D1932306",
+      "backupUrl": "https://gitee.com/lingfeng1228/PoYu/releases/download/v0.1.0/Poyu-0.1.0-release.apk"
+    },
+    "windows": {
+      "url": "https://github.com/lingfeng1228/PoYu/releases/download/v0.1.0/Poyu-0.1.0-windows-x64.zip",
+      "sha256": "00C8C23099B61428334F5949A93102BF124A606329D5812789CD53DC8DEB88D4",
+      "backupUrl": "https://gitee.com/lingfeng1228/PoYu/releases/download/v0.1.0/Poyu-0.1.0-windows-x64.zip"
+    }
+  }
+}
